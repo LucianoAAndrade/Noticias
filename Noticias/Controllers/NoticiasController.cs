@@ -9,9 +9,11 @@ using Noticias.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Noticias.Models.CategoriasViewModels;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Noticias.Controllers
 {
+    [Authorize(Roles = "Administrador")]
     public class NoticiasController : Controller
     {
         private DbNoticias db;
