@@ -1,0 +1,12 @@
+C:\Users\luciano.andrade\source\repos\Noticias\Noticias\obj\Debug\netcoreapp2.0\Noticias.csprojResolveAssemblyReference.cache
+C:\Users\luciano.andrade\source\repos\Noticias\Noticias\obj\Debug\netcoreapp2.0\Noticias.csproj.CoreCompileInputs.cache
+C:\Users\luciano.andrade\source\repos\Noticias\Noticias\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\luciano.andrade\source\repos\Noticias\Noticias\obj\Debug\netcoreapp2.0\Noticias.AssemblyInfoInputs.cache
+C:\Users\luciano.andrade\source\repos\Noticias\Noticias\obj\Debug\netcoreapp2.0\Noticias.AssemblyInfo.cs
+C:\Users\luciano.andrade\source\repos\Noticias\Noticias\bin\Debug\netcoreapp2.0\Noticias.deps.json
+C:\Users\luciano.andrade\source\repos\Noticias\Noticias\bin\Debug\netcoreapp2.0\Noticias.runtimeconfig.json
+C:\Users\luciano.andrade\source\repos\Noticias\Noticias\bin\Debug\netcoreapp2.0\Noticias.runtimeconfig.dev.json
+C:\Users\luciano.andrade\source\repos\Noticias\Noticias\bin\Debug\netcoreapp2.0\Noticias.dll
+C:\Users\luciano.andrade\source\repos\Noticias\Noticias\bin\Debug\netcoreapp2.0\Noticias.pdb
+C:\Users\luciano.andrade\source\repos\Noticias\Noticias\obj\Debug\netcoreapp2.0\Noticias.dll
+C:\Users\luciano.andrade\source\repos\Noticias\Noticias\obj\Debug\netcoreapp2.0\Noticias.pdb

@@ -1,0 +1,26 @@
+﻿@model Noticias.Models.Municipio
+
+@{
+    ViewData["Title"] = "Excluir Município";
+}
+
+<h2>@ViewData["Title"]</h2>
+<h4>Tem Certeza que deseja excluir este Muinicípio?</h4>
+<hr/>
+<dl class="dl-horizontal">
+    <dt>
+        @Html.DisplayNameFor(model => model.Nome)
+        @Html.DisplayNameFor(model => model.Uf)
+    </dt>
+    <dd>
+        @Html.DisplayFor(model => model.Nome)
+        @Html.DisplayFor(model => model.Uf)
+    </dd>
+</dl>
+
+<form asp-action="Delete">
+    <div class="form-action no-color">
+        <input type="Submit" value="Excluir" class="btn btn-default" />
+        <a asp-action="Index">Voltar a lista de Municípios</a>
+    </div>
+</form>
